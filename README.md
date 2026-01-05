@@ -1,1 +1,7 @@
-this is one of my firtst project i have done on pythonnit is a basic portscanner for windows that i wanted to try out making !
+This is my collection of coding Projects i ahve been working on.
+This includes:
+-PortScanners
+-Encrypters
+-Password Generattor
+-Password checker
+-Audio file converter #TBA
